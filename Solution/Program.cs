@@ -6,6 +6,8 @@ namespace Solution
     {
         static void Main(string[] args)
         {
+            var solution = new Solution();
+            var a = solution.LongestPalindrome("bb");
         }
     }
 }
